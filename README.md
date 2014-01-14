@@ -1,4 +1,4 @@
 Seashell
 ========
 
-The livecoding game
+A livecoding game
