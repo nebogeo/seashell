@@ -1,4 +1,4 @@
-Open Sauces Notebook
-====================
+Seashell
+========
 
-A structured notebook for recipes
+The livecoding game
